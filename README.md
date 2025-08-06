@@ -26,14 +26,8 @@ The analysis was conducted entirely in **Microsoft Excel**, combining correlatio
 
 ## 💡 Recommendations  
 - Increase targeted **promotions** to drive higher spending.  
-- Focus on improving **website engagement** to reduce bounce rates and maximize potential customer value.  
+- Focus on improving **website engagement** to reduce bounce rates and maximize potential customer value.
 
-## 🚀 How to Use  
-> No coding required – the analysis is fully contained within the Excel file.
-
-1. Open `Yearly_Spending_Analysis.xlsx` to explore correlation matrices, regression models, and visuals.  
-2. Review `Yearly_Spending_Insights.pdf` for key takeaways and strategic suggestions.
-
----
-
+  
+--
 *Note: This project uses fictional data for demonstration purposes.*
