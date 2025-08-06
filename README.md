@@ -17,7 +17,7 @@ The analysis was conducted entirely in **Microsoft Excel**, combining correlatio
 
 ## 📁 Files   
 - xlsx: Data, statistical tests, and visualizations  
-- pdf : Slide summary of findings and recommendations  
+- pptx: Slide summary of findings and recommendations  
 
 ## 📌 Key Insights  
 - **Total Promo** had the **strongest positive impact** on yearly spending.  
